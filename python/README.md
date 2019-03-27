@@ -1,4 +1,4 @@
-# MediaWiki Action API Code Samples
+# Code Snippets : Python
 Code snippets in Python demonstrating how to use various modules of the [MediaWiki Action API](https://www.mediawiki.org/wiki/API:Main_page)
 
 ### Authentication
