@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/MediaWiki_logo_1.png" height="400px" alt="MediaWiki"/> </div>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/MediaWiki_logo_1.png" height="400px" alt="MediaWiki"/> </p>
 
 # MediaWiki Action API Code Samples
 Code snippets in Python demonstrating how to use various modules of the [MediaWiki Action API](https://www.mediawiki.org/wiki/API:Main_page)
